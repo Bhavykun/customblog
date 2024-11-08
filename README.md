@@ -1,6 +1,6 @@
 # Custom Blogging Platform
 
-Welcome to the Custom Blogging Platform! This project is a simple yet powerful blogging platform built from scratch using a custom-made API for data management, Express.js for the server, and EJS for the frontend templating.
+Welcome to the Custom Blogging Platform! This project is a simple yet powerful blogging platform built from scratch using a custom-made API for data management, Express.js for the server, React.js as frontend, AXIOS to make API requests (Optional*:EJS for the frontend templating), PostgreSQL database to store the blog posts efficiently.
 
 ## Features
 
